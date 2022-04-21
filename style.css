@@ -9,9 +9,9 @@ body {
   color: white;
   height: 100%;
 }
-.q { 
-  position: relative;
-  margin-top: 10px;
+#wrapper {
+  float: left;
+  width: 200px;
 }
 .p {
   position: relative;
