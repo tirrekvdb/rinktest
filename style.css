@@ -1,4 +1,5 @@
 body {
+  position: relative;
   font-family: Sans-serif;
   font-size: 12px;
   display: flex;
@@ -10,7 +11,6 @@ body {
   height: 100%;
 }
 .box {
-  position: relative;
   max-width: 300px;
   text-align: center;
 }
@@ -18,11 +18,6 @@ body {
   display: block;
   width: 100% !important;
   margin-bottom: 10px;
-}
-.p {
-  position: relative;
-  max-width: 12px;
-  text-align: center;
 }
 .nice-select {
   margin-bottom: 10px;
