@@ -11,9 +11,11 @@ body {
   height: 100%;
 }
 .q { 
+  position: relative;
   margin: 100px 0; 
 }
 .p {
+  position: relative;
   margin: 20px 0;
 }
 .box {
